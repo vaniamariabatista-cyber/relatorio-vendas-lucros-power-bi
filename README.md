@@ -12,6 +12,7 @@ Evoluir o relatório criativo fornecido na aula, com foco em experiência do usu
 - Estados dos botões do menu configurados: padrão, ao focalizar e selecionado, com o botão da página atual em azul escuro e texto branco.
 - Barra lateral e logo da página Profit padronizados com os da página Sales, ajustando o espaçamento para o menu caber dentro da barra.
 - Remoção do elemento decorativo que não cabia no layout da página Profit.
+- > Observação: a página Profit usa o visual personalizado Radar Chart do relatório-base, que não estava instalado no ambiente de desenvolvimento, por isso aparece uma mensagem no lugar dele.
 
 ## Páginas
 
